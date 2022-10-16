@@ -1,6 +1,6 @@
 # ether-simple-storage-fcc
 
-This project is about learning the fundamentals with the hardhat framework. It is a simple smart contract that stores a value and allows the owner to update it. And then we wrote a deploy script and installed a nodejs compiler (solc) to compile the smart contract.
+This project is about learning the fundamentals with the etherjs framework. It is a simple smart contract that stores a value and allows the owner to update it. And then we wrote a deploy script and installed a nodejs compiler (solc) to compile the smart contract.
 
 ## How the deployment of a smart contract works:
 
